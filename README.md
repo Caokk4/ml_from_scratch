@@ -5,10 +5,5 @@ Python reimplementation of some common core ML algorithms using NumPy. Mainly fo
 
 ### Installation
 ```sh 
-```sh 
-$ git clone git@github.com:Caokk4/ml_from_scratch.git
+$ git@github.com:Caokk4/ml_from_scratch.git
 ```
-```
-```
-```
-
